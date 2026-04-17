@@ -1,0 +1,7 @@
+raw/
+_next_session_bootstrap.md
+.obsidian/
+.smart-env/
+.DS_Store
+Thumbs.db
+*.tmp
