@@ -54,8 +54,8 @@
 
 ## 成果链接
 
-- 公众号文章:**接过阿德勒 50 年前的叹息:AI 时代的阅读答案**(已发布,链接待补)
-- 小红书:**我被自己通过 AI 写出来的一句话击中了**(已发布,链接待补)
+- 公众号文章:[**接过阿德勒 50 年前的叹息:AI 时代的阅读答案**](https://mp.weixin.qq.com/s/recEDI1YO3pjjmInT5iE_w)
+- 小红书:[**我被自己通过 AI 写出来的一句话击中了**](https://www.xiaohongshu.com/explore/69e08fd70000000023011ca0?xsec_token=ABTQh3RkfXiHY6TTY1XNLNjj0ML8lZcCYCizbcmaKh_HA=&xsec_source=pc_search&source=unknown)
 - Mermaid 四代师承图:`output/mermaid_四代师承图.md`
 - Mermaid wiki 结构图:`output/mermaid_wiki结构图.md`
 

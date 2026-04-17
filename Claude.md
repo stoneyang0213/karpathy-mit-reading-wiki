@@ -8,7 +8,8 @@
 > - 你如果想 fork 这个 demo 做自己的主题 wiki,**先看 [README.md](./README.md) 了解结构**,再读本文件理解规则怎么写
 >
 > **本项目 demo 的核心产出**(7 天完成):
-> - [公众号文章:接过阿德勒 50 年前的叹息 — AI 时代的阅读答案](https://mp.weixin.qq.com/)(已发布,链接待补)
+> - [公众号文章:接过阿德勒 50 年前的叹息 — AI 时代的阅读答案](https://mp.weixin.qq.com/s/recEDI1YO3pjjmInT5iE_w)
+> - [小红书版:我被自己通过 AI 写出来的一句话击中了](https://www.xiaohongshu.com/explore/69e08fd70000000023011ca0?xsec_token=ABTQh3RkfXiHY6TTY1XNLNjj0ML8lZcCYCizbcmaKh_HA=&xsec_source=pc_search&source=unknown)
 > - 32 张 wiki 页(5 frameworks / 3 debates / 11 concepts / 14 sources)
 > - 2 张 mermaid 知识地图(四代师承 + wiki 三层结构)
 >
